@@ -1,0 +1,130 @@
+- links_category: 朋友们
+  has_thumbnail: false
+  list: 
+    - name: KuoHuBlog
+      link: https://khbit.cn/
+      description: 就一屑站
+      avatar: https://cravatar.cn/avatar/c0c67928420f1ca7567ad555aeb50ed6
+
+    - name: 夏沫花火zzz🌙 (Muska_Ami)のLife
+      link: https://www.1l1.icu
+      description: Keep doing, keep loving
+      avatar: https://blog.1l1.icu/images/avatar.jpg
+
+    - name: IcyBlog
+      link: https://blog.icybit.cn/
+      description: IcyBlog Share My Life
+      avatar: https://q.qlogo.cn/qqapp/102131907/2DC08A0B87B42FC467242BED25261546/100
+    
+    - name: Bingxin Home
+      link: https://byteloid.one
+      description: 好久不见
+      avatar: https://blog.byteloid.one/img/march7th.webp
+
+    - name: I'm Luochancy
+      link: https://www.luochancy.com
+      description: 一个猫猫的博客喵
+      avatar: https://www.luochancy.com/wp-content/uploads/2023/12/1904634_Ehaif6np.png
+
+    - name: 薄荷の小屋
+      link: https://www.hoshiroko.com
+      description: 越是拼命往前伸手，渴望之物越是渐行渐远
+      avatar: https://api.hoshiroko.com/img/avatar.jpg
+    
+    - name: 云萧的咕咕屋
+      link: https://www.crrashh.com
+      description: 以万象之不息，致不息之万象。
+      avatar: https://i.cdn.crrashh.com/avatar.jpg
+
+    - name: 沙雕的Blog
+      link: https://blog.sdbit.net.cn
+      description: 哈喽~欢迎光临
+      avatar: https://apac-cloudflare-r2-img.1l1.icu/2024/10/03/66fd79ecf3f1c.webp
+
+    - name: liuzhen932 的小窝
+      link: https://blog.liuzhen932.top/
+      description: 只要愿意去做，人无所不通
+      avatar: https://blog.liuzhen932.top/favicon.png
+
+    - name: iVampireSP 的物语
+      link: https://ivampiresp.com
+      description: 比起千言万语，更重要的是心灵相通吧。
+      avatar: https://nwl.im/avatar
+
+    - name: 落雪の自留地
+      link: https://www.lxhtt.cn/
+      description: 衣带渐宽终不悔，为伊消得人憔悴。
+      avatar: https://www.lxhtt.cn/img/avatar.webp
+
+    - name: 阿龙的笔记
+      link: https://www.alongw.cn/
+      description: 阿巴阿巴…
+      avatar: https://static.alongw.cn/avatar/512.png
+
+    - name: 盐木のWebsite
+      link: https://ski.ink
+      description: Luctor et emergo.
+      avatar: https://saltwood.top:5244/d/友链头像/盐木.jpg
+
+    - name: 零狼の小窝
+      link: https://zerowolf.cn/
+      description: 为了前行而努力，即使前方不一定有光。
+      avatar: https://zerowolf.cn/wp-content/uploads/2025/01/logo.jpg
+
+    - name: Daiyangcheng's Blog
+      link: https://www.daiyangcheng.cn/
+      description: dyc 的碎碎念
+      avatar: https://cravatar.cn/avatar/5417982dfeabcb9a22bfc582c88a4759
+
+    - name: win2k的小站
+      link: https://www.abjust.fun
+      description: 生活本无意义，但人类选择追寻
+      avatar: https://www.abjust.fun/upload/b_e04b0924f8e749918b3553c0f04cc099.jpg
+
+    - name: SerinaNya
+      description: 哇这个好可爱呀
+      avatar: https://serinanya.cn/assets-zone-1/avatar-mahiro.webp
+      link: https://serinanya.cn/
+
+    - name: Big_Cake
+      description: 也许我们会分别，但我们将永远不会忘记彼此
+      avatar: https://cravatar.cn/avatar/636d113ce37111d08f08faee780ce9b8
+      link: https://www.lihaoyu.cn/
+
+    - name: Aehxy 的个人小站
+      description: 若知是梦何须醒，不比真如一相会。
+      avatar: https://www.aehxy.com/wp-content/uploads/2024/02/avatar.jpg
+      link: https://www.aehxy.com
+
+    - name: XieXiLin
+      description: 人生应该删繁留简，任世事摇曳，心始终如莲，安静绽放。
+      avatar: https://cravatar.cn/avatar/2defd5540f480625cf9d09e5d4c3b7c4
+      link: https://www.xiexilin.com
+
+    - name: 洛元の小屋
+      description: 洛元の小屋，科技，游戏，生活为主的blog
+      avatar: https://blog.dimeta.top/upload/avatar.jpg
+      link: https://blog.dimeta.top/
+      
+    - name: 羽绵的小窝
+      description: 愿永不忘初心
+      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=2824181493&spec=100
+      link: https://blog.yumian.space/
+
+    - name: EDream的小破站
+      description: 人生没有绝对精彩，雨后或许没有彩虹，但后退一步确是失败。
+      avatar: https://blog.edmc.cn/upload/fillet-ElectricityDream.png
+      link: https://blog.edmc.cn/
+
+- links_category: 团队
+  has_thumbnail: false
+  list: 
+    - name: MCSL2
+      link: https://v2.mcsl.com.cn
+      description: 简洁、全能的Minecraft开服器
+      avatar: https://images.mcsl.com.cn/new/MCSL2.webp
+      
+    - name: LoCyanTeam
+      link: https://www.locyan.cn
+      description:
+      avatar: https://www.locyan.cn/favicon.ico
